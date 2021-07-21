@@ -147,6 +147,10 @@ function kata7() {
         }
     }
 
+    showResults(nome, arrContagem)
+    return arrContagem
+
+
 }
 kata7();
 
